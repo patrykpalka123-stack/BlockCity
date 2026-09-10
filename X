@@ -1,0 +1,114 @@
+# 🎮 BlockCity
+
+## 📌 O projekcie
+
+BlockCity to projekt gry multiplayer inspirowanej Minecraftem, GTA oraz trybem SkyWars.
+
+Celem projektu jest stworzenie otwartego świata, w którym gracze będą mogli eksplorować mapę, wykonywać zadania, zdobywać przedmioty oraz rywalizować z innymi graczami.
+
+## 🎯 Główne cele
+
+- otwarty świat
+- świat zbudowany z bloków
+- multiplayer
+- system przedmiotów
+- misje
+- pojazdy
+- PvP
+- ekonomia
+- różne tryby gry
+- SkyWars
+
+## 🕹️ Tryby gry
+
+### 🌆 Free Roam
+
+Gracz może swobodnie eksplorować świat, odwiedzać miasto i wykonywać różne aktywności.
+
+### ⚔️ SkyWars
+
+Gracze rozpoczynają na oddzielnych wyspach.
+
+Ich zadaniem jest zdobywanie wyposażenia i pokonanie pozostałych graczy.
+
+### 💰 Missions
+
+Gracz wykonuje zadania i otrzymuje za nie nagrody.
+
+### 🚗 City
+
+W świecie gry znajdzie się miasto z budynkami, drogami i różnymi lokacjami.
+
+## 🧱 Inspiracje
+
+Projekt jest inspirowany:
+
+- Minecraftem — świat z bloków i eksploracja
+- GTA — otwarty świat, pojazdy i misje
+- SkyWars — rywalizacja multiplayer
+
+Projekt nie będzie kopią żadnej z wymienionych gier.
+
+## 🛠️ Technologie
+
+- Git
+- GitHub
+- HTML
+- CSS
+- JavaScript
+- silnik gry
+
+## 📅 Roadmap
+
+### Etap 1 — Przygotowanie
+
+- [x] Utworzenie repozytorium
+- [x] Konfiguracja Git
+- [x] Konfiguracja SSH
+- [x] Utworzenie README
+- [x] Przygotowanie struktury projektu
+
+### Etap 2 — Prototyp
+
+- [ ] Pierwsza mapa
+- [ ] Gracz
+- [ ] Poruszanie się
+- [ ] Kamera
+- [ ] Interakcja ze światem
+
+### Etap 3 — Multiplayer
+
+- [ ] Serwer
+- [ ] Dołączanie graczy
+- [ ] Synchronizacja graczy
+- [ ] System rozgrywki
+
+### Etap 4 — Tryby gry
+
+- [ ] Free Roam
+- [ ] SkyWars
+- [ ] Missions
+- [ ] PvP
+
+### Etap 5 — Rozbudowa
+
+- [ ] Pojazdy
+- [ ] NPC
+- [ ] Ekonomia
+- [ ] Większa mapa
+- [ ] System przedmiotów
+- [ ] Optymalizacja
+- [ ] Testy
+
+## 👥 Zespół
+
+Projekt wykonywany jest w ramach projektu zawodowego.
+
+## 🚧 Status
+
+Projekt znajduje się obecnie w fazie przygotowania i tworzenia prototypu.
+
+---
+
+**BlockCity — Build. Explore. Compete. 🎮**
+X
